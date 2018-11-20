@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This have been replaced with metaphysical bunnies
 Use the left arrow to go back!
